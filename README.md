@@ -6,6 +6,16 @@ On this project we created a bubble sort method on Ruby
 
    - Ruby
 
+## Getting Started
+
+You can get a local copy of the repository please run the following commands on your terminal:
+
+```
+$ cd <folder>
+
+$ git clone https://github.com/Stricks1/bubbleSort.git
+```
+
 
 👤 **Author**
 

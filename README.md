@@ -19,10 +19,13 @@ $ git clone https://github.com/Stricks1/bubbleSort.git
 
 👤 **Author**
 
+Gabriel Silveira
+
 - Github: **[@Stricks1](https://github.com/Stricks1)**
 - E-mail: **[Gabriel Silveira](mailto:gmalheiross@gmail.com)**
 - Linkedin: **[Gabriel Silveira](https://linkedin.com/in/gabriel-malheiros-silveira-b6632061/)**
 
+Rakotonarivo Rindra Josia
 
 - Github: **[@rindrajosia](https://github.com/rindrajosia)**
 - Twitter: **[@rindrajosia](https://twitter.com/josia_rindra)**

@@ -11,7 +11,8 @@ def bubble_sort_by(arr)
     end
     break unless flag
   end
-  puts arr.inspect
+  puts arr
+  arr
 end
 
 bubble_sort_by(%w[hi hello hey]) do |left, right|
